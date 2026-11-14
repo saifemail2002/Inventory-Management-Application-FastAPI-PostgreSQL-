@@ -1,5 +1,5 @@
-# Fastapi-CRUD-application
-A FastAPI project , CRUD based application , using  pydantic , SQLAlchemy and Postgresql
+# Inventory Management Application (FastAPI, PostgreSQL
+A FastAPI project ,  api for inventory management application , using  pydantic , SQLAlchemy and Postgresql
 
 • CRUD inventory application using FastAPI
 • Implemented REST APIs for create, read, update, delete operations
